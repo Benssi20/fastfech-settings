@@ -58,8 +58,12 @@ credits to: https://github.com/HyDE-Project/HyDE/tree/master/Configs/.config/fas
         "keyColor": "green"
       },
       {
+        "type": "shell",
+        "key": "   Shell"
+      },
+      {
         "type": "terminal",
-        "key": "   Terminal",
+        "key": "   Terminal",
         "keyColor": "yellow"
       },
       {
